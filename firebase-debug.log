@@ -1,0 +1,25 @@
+[debug] [2021-06-30T19:23:39.108Z] ----------------------------------------------------------------------
+[debug] [2021-06-30T19:23:39.110Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ronaldo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-06-30T19:23:39.110Z] CLI Version:   9.14.0
+[debug] [2021-06-30T19:23:39.110Z] Platform:      win32
+[debug] [2021-06-30T19:23:39.110Z] Node Version:  v14.17.1
+[debug] [2021-06-30T19:23:39.111Z] Time:          Wed Jun 30 2021 14:23:39 GMT-0500 (hora estándar de Perú)
+[debug] [2021-06-30T19:23:39.111Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-30T19:23:39.115Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-30T19:23:39.116Z] > authorizing via signed-in user (ronaldocurillavargas@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\react js\tik-tok-clone
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
